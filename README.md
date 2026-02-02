@@ -21,10 +21,10 @@
 This repository contains **writeups and notes** for challenges I solved on  
 🎯 **CyberTalents Platform**
 
-The goal is:
+Mission:
 - 📚 Document my learning
-- 🧩 Share techniques
-- ⚔️ Improve CTF & Reverse Engineering skills
+- 🧩 Share techniques, tricks, and thought processes
+- ⚔️ Get better at CTFs — in general, not limited to one domain
 
 ---
 
