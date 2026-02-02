@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-CyberTalents-red">
-  <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-blue">
+  <img src="https://img.shields.io/badge/Focus-General-blue">
   <img src="https://img.shields.io/badge/Status-Active-success">
 </p>
 
